@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/dadaluoyu/dadaluoyu.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+模块一：个人简历及介绍
+
+模块二：学习笔记
+
+模块三：个人思考输出
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
